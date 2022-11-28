@@ -21,6 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/ultraviolet/55/000000/php.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img width="55px" src="https://laravel.com/img/logomark.min.svg"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img width="55px" src="https://img.icons8.com/color/2x/vue-js.png"/> </a>
     <a href="https://quasar.dev/" target="_blank"> <img width="55px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"/> </a>
@@ -36,8 +37,6 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>  
-    <a href="https://quasar.dev/" target="_blank"> <img width="48px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"/> </a> 
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/ultraviolet/48/000000/php.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.android.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
     <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
