@@ -26,7 +26,7 @@
     <a href="https://laravel.com/" target="_blank"> <img width="55px" src="https://laravel.com/img/logomark.min.svg"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img width="55px" src="https://img.icons8.com/color/2x/vue-js.png"/> </a>
     <a href="https://quasar.dev/" target="_blank"> <img width="55px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"/> </a>
-    <a href="https://ionicframework.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/ionic.png"/> </a>
+    <a href="https://ionicframework.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/ionic.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
