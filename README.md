@@ -21,9 +21,9 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://quasar.dev/" target="_blank"> <img width="45px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/external-laravel-is-a-free-open-source-php-web-framework-logo-shadow-tal-revivo.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/2x/vue-js.png"/> </a>
+    <a href="https://quasar.dev/" target="_blank"> <img width="55px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
