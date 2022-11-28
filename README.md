@@ -38,11 +38,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>  
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.android.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
-    <a href="https://opencv.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/opencv.png"/></a>
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a>
     <a href="https://cloud.google.com/gcp" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a>
