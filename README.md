@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Here's what you need to know
 
-- 🌱 I’m currently learning **Node Js and React Js.**
+- 🌱 I’m currently building **a ride sharing app, a dating app and a social network different from Balablu.**
 
 - 🔭 I’m working on an **[Open Source CSS framework](https://github.com/toneflix/toneflix-css/)**
 
