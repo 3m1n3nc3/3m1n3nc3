@@ -65,7 +65,7 @@
 - **[Toneflix Vue Video Conferencing](https://toneflix.github.io/vue-video-conferencing)**
 - **[Official Cutt.ly Integration for Laravel](https://cutt.ly/resources/integrations)**
 - **[Agrobays](https://agrobays.com)**
-- **[Agrobays Agrofoods](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app)**
+- **[Agrobays Agrofoods (Playstore)](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app)**
 - **[Lorem Toneflix Image Placeholder Service](https://lorem.toneflix.com.ng)**
 - **[Perfectwedding.io](https://perfectwedding.io)**
 - **[Laravel Fileable](https://github.com/toneflix/laravel-fileable)**
