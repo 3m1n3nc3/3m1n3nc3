@@ -60,6 +60,21 @@
     </a>
 </p>
 
+## 💼 My Top Projects
+
+- **[Toneflix Vue Video Conferencing](https://toneflix.github.io/vue-video-conferencing)**
+- **[Official Cutt.ly Integration for Laravel](https://cutt.ly/resources/integrations)**
+- **[Agrobays](https://agrobays.com)**
+- **[Agrobays Agrofoods](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app)**
+- **[Lorem Toneflix Image Placeholder Service](https://lorem.toneflix.com.ng)**
+- **[Perfectwedding.io](https://perfectwedding.io)**
+- **[Laravel Fileable](https://github.com/toneflix/laravel-fileable)**
+- **[Suresteps.org](https://suresteps.org)**
+- **[Nimsy Agro Solar](https://nimsyagrosolar.com)**
+- **[SMK](https://sundaymarshallkatung.org)**
+
+**_All my open source projects can be found in my [Organisational repo](https://github.com/toneflix)_**
+
 ## 📊 My Github Stats
 
   <br/>
