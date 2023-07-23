@@ -74,7 +74,7 @@
 - **[SMK](https://sundaymarshallkatung.org)**
 - **[Kayangona](https://kayangona.netlify.app)**
 
-**_All my open source projects can be found in my [Organisational repo](https://github.com/toneflix)_**
+**_Some of my open source projects can be found in my [Organisational repo](https://github.com/toneflix)_**
 
 ## 📊 My Github Stats
 
