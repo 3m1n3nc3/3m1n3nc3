@@ -72,6 +72,7 @@
 - **[Suresteps.org](https://suresteps.org)**
 - **[Nimsy Agro Solar](https://nimsyagrosolar.com)**
 - **[SMK](https://sundaymarshallkatung.org)**
+- **[Kayangona](https://kayangona.netlify.app)**
 
 **_All my open source projects can be found in my [Organisational repo](https://github.com/toneflix)_**
 
