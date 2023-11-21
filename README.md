@@ -69,6 +69,7 @@
 - **[Lorem Toneflix Image Placeholder Service](https://lorem.toneflix.com.ng)**
 - **[Perfectwedding.io](https://perfectwedding.io)**
 - **[Laravel Fileable](https://github.com/toneflix/laravel-fileable)**
+- **[Toneflix Vue Video Conferencing](https://toneflix.github.io/vue-video-conferencing)**
 - **[Suresteps.org](https://suresteps.org)**
 - **[Nimsy Agro Solar](https://nimsyagrosolar.com)**
 - **[SMK](https://sundaymarshallkatung.org)**
