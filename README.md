@@ -75,6 +75,9 @@
 - **[SMK GetInvolved (On Playstore)](https://play.google.com/store/apps/details?id=org.toneflix.smk.app)**
 - **[Kayangona](https://kayangona.netlify.app)**
 - **[Markpoint NG](https://markpointng.com)**
+- **[Gotchu (On Playstore)](https://play.google.com/store/apps/details?id=org.toneflix.gotchu.app)**
+- **[Kudi SMS PHP Library](https://github.com/toneflix/kudi-sms-php)**
+- **[Kudi SMS Laravel Notification](https://github.com/toneflix/kudisms-notification)**
 
 **_Some of my open source projects can be found in my [Organisational repo](https://github.com/toneflix)_**
 
