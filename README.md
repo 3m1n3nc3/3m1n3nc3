@@ -42,10 +42,6 @@
     <a href="https://cloud.google.com/gcp" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a>
     <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/></a>
-    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/> </a>
-    <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/></a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 </p>
 
