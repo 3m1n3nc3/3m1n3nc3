@@ -1,20 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Legacy</h1>
-<h3 align="center">I'm a full stack developer fueled by passion for people and creating new stuff.</h3>
+<h3 align="center">I'm a mobile/full stack developer fueled by passion for people and creating new stuff.</h3>
 
 
 ## 🙋‍♂️ Here's what you need to know
 
-- 🌱 I’m currently building **a ride sharing app, a dating app and a social network different from Balablu.**
-
-- 🔭 I’m working on an **[Open Source CSS framework](https://github.com/toneflix/toneflix-css/)**
+- 🌱 I’m currently building **a music streaming and distribution suit.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** whenever i am free
 
 - 👨‍💻 Not all of my projects are  available to the public 
 
-- 📫 How to reach me **[mygames.ng@gmail.com](mailto:mygames.ng@gmail.com)**
+- 📫 You can reach me at **[mygames.ng@gmail.com](mailto:mygames.ng@gmail.com)**
 
 - ⚡ Fun fact **I Love Food with Lots of Meat 🥲**
 
