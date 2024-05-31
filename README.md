@@ -66,6 +66,10 @@
 - **[Official Cutt.ly Integration for Laravel](https://cutt.ly/resources/integrations)**
 - **[Agrobays](https://agrobays.com)**
 - **[Agrobays Agrofoods (On Playstore)](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app)**
+- **[Agrobays Agrofoods (On Apple App Store)](https://apps.apple.com/ng/app/agrobays-agrofoods/id6463464628)**
+- **[5minutes](https://app.5minutes.ng)**
+- **[5minutes (On Playstore)](https://play.google.com/store/apps/details?id=org.greysoft.fiveminutes.app)**
+- **[5minutes (On Apple App Store)](https://apps.apple.com/app/5minutes-app/id6499357629)**
 - **[Lorem Toneflix Image Placeholder Service](https://lorem.toneflix.com.ng)**
 - **[Perfectwedding.io](https://perfectwedding.io)**
 - **[Laravel Fileable](https://github.com/toneflix/laravel-fileable)**
