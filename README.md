@@ -58,6 +58,7 @@
 
 - **[Toneflix Vue Video Conferencing](https://toneflix.github.io/vue-video-conferencing)**
 - **[Official Cutt.ly Integration for Laravel](https://cutt.ly/resources/integrations)**
+- **[Naija Places API](https://naija-places.toneflix.com.ng)**
 - **[Agrobays](https://agrobays.com)**
 - **[Agrobays Agrofoods (On Playstore)](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app)**
 - **[Agrobays Agrofoods (On Apple App Store)](https://apps.apple.com/ng/app/agrobays-agrofoods/id6463464628)**
