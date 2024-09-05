@@ -79,7 +79,7 @@
 - **[Kudi SMS Laravel Notification](https://github.com/toneflix/kudisms-notification)**
 - **[Laravel Approvable Notifications](https://github.com/toneflix/laravel-approvable-notifications)**
 
-**_All my open source projects are available in [ONE PLACE](https://github.com/toneflix/packages)_**
+**_Here is a list of all my [open source projects](https://github.com/toneflix/packages)_**
 
 ## 📊 My Github Stats
 
