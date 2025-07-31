@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Here's what you need to know
 
-- 🌱 I’m currently building **a music streaming and distribution suit.**
+- 🌱 I’m currently building **a music streaming and distribution suit** and an OpenSource Laravel alternative [NodeJs Web Framework](https://github.com/h3ravel)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** whenever i am free
 
@@ -78,6 +78,7 @@
 - **[Kudi SMS PHP Library](https://github.com/toneflix/kudi-sms-php)**
 - **[Kudi SMS Laravel Notification](https://github.com/toneflix/kudisms-notification)**
 - **[Laravel Approvable Notifications](https://github.com/toneflix/laravel-approvable-notifications)**
+- **[H3ravel](https://github.com/h3ravel/h3ravel)**
 
 **_Here is a list of all my [open source projects](https://github.com/toneflix/packages)_**
 
