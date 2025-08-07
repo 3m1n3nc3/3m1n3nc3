@@ -56,6 +56,7 @@
 
 ## 💼 My Top Projects
 
+- **[H3ravel Framework](https://h3ravel.toneflix.net)**
 - **[Toneflix Vue Video Conferencing](https://toneflix.github.io/vue-video-conferencing)**
 - **[Official Cutt.ly Integration for Laravel](https://cutt.ly/resources/integrations)**
 - **[Naija Places API](https://naija-places.toneflix.com.ng)**
@@ -78,7 +79,6 @@
 - **[Kudi SMS PHP Library](https://github.com/toneflix/kudi-sms-php)**
 - **[Kudi SMS Laravel Notification](https://github.com/toneflix/kudisms-notification)**
 - **[Laravel Approvable Notifications](https://github.com/toneflix/laravel-approvable-notifications)**
-- **[H3ravel](https://github.com/h3ravel/h3ravel)**
 
 **_Here is a list of all my [open source projects](https://github.com/toneflix/packages)_**
 
