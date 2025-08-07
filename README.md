@@ -18,16 +18,17 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/ultraviolet/55/000000/php.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img width="55px" src="https://laravel.com/img/logomark.min.svg"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img width="55px" src="https://img.icons8.com/color/2x/vue-js.png"/> </a>
-    <a href="https://quasar.dev/" target="_blank"> <img width="55px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"/> </a>
-    <a href="https://ionicframework.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/ionic.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<p align="center">
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/typescript.png"/> </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/php.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/mysql.png"/> </a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png"/> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img width="48px" src="https://img.icons8.com/color/48/vue-js.png"/> </a>
+    <a href="https://quasar.dev/" target="_blank"> <img width="48px" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"/> </a>
+    <a href="https://ionicframework.com/" target="_blank"> <img src="https://img.icons8.com/color/48/ionic.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/node-js.png"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
