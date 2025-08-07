@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Here's what you need to know
 
-- 🌱 I’m currently building **a music streaming and distribution suit** and an OpenSource Laravel alternative [NodeJs Web Framework](https://github.com/h3ravel)
+- 🌱 I’m currently building **a music streaming and distribution suit** and [H3ravel]([https://github.com/h3ravel](https://h3ravel.toneflix.net)), an OpenSource Laravel alternative Web Framework for TypeScript
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** whenever i am free
 
