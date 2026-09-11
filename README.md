@@ -42,7 +42,16 @@
 
 ## 💼 My Top Projects
 
+- **[Kweela - Every side of you](https://kweela.com)**
 - **[H3ravel Framework](https://h3ravel.toneflix.net)**
+- **[Arkstack Framework](https://arkstack.toneflix.net)**
+- **[Arkorm](https://arkorm.toneflix.net)**
+- **[Pictwo - Image Placeholder Service](https://pictwo.toneflix.net/)**
+- **[Lorem Toneflix - Image Placeholder Service (Depracated)](https://lorem.toneflix.com.ng)**
+- **[Ghit](ghit.toneflix.net)**
+- **[Paystack CLI](https://github.com/toneflix/paystack-cli)**
+- **[Maplerad SDK - NodeJs SDK for Maplerad API](maplerad.toneflix.net)**
+- **[Flutterwave Node.js SDK v4](https://github.com/toneflix/flutterwave-4-nodejs-sdk)**
 - **[Toneflix Vue Video Conferencing](https://toneflix.github.io/vue-video-conferencing)**
 - **[Official Cutt.ly Integration for Laravel](https://cutt.ly/resources/integrations)**
 - **[Naija Places API](https://naija-places.toneflix.com.ng)**
@@ -52,7 +61,6 @@
 - **[5minutes](https://app.5minutes.ng)**
 - **[5minutes (On Playstore)](https://play.google.com/store/apps/details?id=org.greysoft.fiveminutes.app)**
 - **[5minutes (On Apple App Store)](https://apps.apple.com/app/5minutes-app/id6499357629)**
-- **[Lorem Toneflix Image Placeholder Service](https://lorem.toneflix.com.ng)**
 - **[Perfectwedding.io](https://perfectwedding.io)**
 - **[Laravel Fileable](https://github.com/toneflix/laravel-fileable)**
 - **[Suresteps.org](https://suresteps.org)**
@@ -65,11 +73,10 @@
 - **[Kudi SMS PHP Library](https://github.com/toneflix/kudi-sms-php)**
 - **[Kudi SMS Laravel Notification](https://github.com/toneflix/kudisms-notification)**
 - **[Laravel Approvable Notifications](https://github.com/toneflix/laravel-approvable-notifications)**
-- **[Paystack CLI](https://github.com/toneflix/paystack-cli)**
 
-**_Here is a list of all my [open source projects](https://github.com/toneflix/packages)_**
+**_Here is a more comprehensive list (non-exhaustive) of all my [open source projects](https://github.com/toneflix/packages)_**
 
-## 📊 My Github Stats
+## 📊 My GitHub Stats
 
   <br/>
   <div align=center>
