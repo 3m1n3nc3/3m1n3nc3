@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Legacy</h1>
-<h3 align="center">I'm a mobile/full stack developer fueled by passion for people and creating new stuff.</h3>
+<h3 align="center">I'm a web3, full-stack software developer fueled by passion for people, learning and building.</h3>
 
 
 ## 🙋‍♂️ Here's what you need to know
@@ -10,11 +10,13 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** whenever i am free
 
+- 📚 I will build a new tool if I need to learn something new; I call it learning on the job (LOTJ)
+
 - 👨‍💻 Not all of my projects are  available to the public 
 
 - 📫 You can reach me at **[mygames.ng@gmail.com](mailto:mygames.ng@gmail.com)**
 
-- ⚡ Fun fact **I Love Food with Lots of Meat 🥲**
+- ⚡ Fun fact: **I once tried out veganism, but I Love Food with plenty of meat 🥲**, so it didn't work out.
 
 ## 🚀 Languages and Tools:
 
